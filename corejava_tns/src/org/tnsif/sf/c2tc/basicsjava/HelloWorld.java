@@ -1,4 +1,4 @@
-package corejava_tns;
+package org.tnsif.sf.c2tc.basicsjava;
 
 public class HelloWorld {
 
