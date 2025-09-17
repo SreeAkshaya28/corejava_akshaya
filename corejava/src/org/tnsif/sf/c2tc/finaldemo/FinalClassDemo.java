@@ -8,10 +8,10 @@ final class AadhaarGenerator
 		System.out.println("Generated Aadhaar card ");
 	}
 }
-//class Myaadhar extends AadhaarGenerator
-//{
-//	
-//}
+class Myaadhar extends AadhaarGenerator
+{
+	
+}
 
 public class FinalClassDemo {
 
